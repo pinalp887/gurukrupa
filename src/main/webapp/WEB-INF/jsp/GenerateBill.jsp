@@ -14,15 +14,15 @@
 	src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> -->
-<link rel="stylesheet" href="/css/bootstrap.min.css">
-<link rel="stylesheet" href="/css/style.css">
-<script src="/js/jquery-ui.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/popper.min.js"></script>
-<script src="/js/bill.js"></script>
+ <link rel="stylesheet" href="/UGAM/css/bootstrap.min.css">
+<link rel="stylesheet" href="/UGAM/css/style.css">
+<script src="/UGAM/js/jquery-ui.min.js"></script>
+<script src="/UGAM/js/bootstrap.min.js"></script>
+<script src="/UGAM/js/popper.min.js"></script>
+<script src="/UGAM/js/bill.js"></script>  
 </head>
 <body>
-<div class="overlay"></div>
+	<div class="overlay"></div>
 	<div class="container">
 		<h1>Invoice</h1>
 		<div class="form-group">

@@ -23,4 +23,9 @@ public class LoginController {
     public String showBillPage1(ModelMap model){
         return "newbill";
     }
+	
+	@RequestMapping(value="/july", method = RequestMethod.GET)
+    public String july(ModelMap model){
+        return "july";
+    }
 }

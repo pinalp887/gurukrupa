@@ -822,7 +822,7 @@ body {
 }
 
 .col.custom-width {
-    max-width: 65px;
+    max-width: 75px;
     width: 100%;
     margin: 0;
 }
@@ -850,3 +850,4 @@ body.loading{
 body.loading .overlay{
     display: block;
 }
+
